@@ -1,0 +1,24 @@
+{
+  "name": "generator-h5",
+  "version": "1.0.0",
+  "description": "digiocean generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digiocean/generator-h5.git"
+  },
+  "keywords": [
+    "digiocean",
+    "generator",
+    "generator-h5"
+  ],
+  "author": "h.yingzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digiocean/generator-h5/issues"
+  },
+  "homepage": "https://github.com/digiocean/generator-h5#readme"
+}
