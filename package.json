@@ -1,5 +1,5 @@
 {
-  "name": "generator-h5",
+  "name": "generator-mobile",
   "version": "1.0.0",
   "description": "digiocean generator",
   "main": "index.js",
@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/digiocean/generator-h5.git"
+    "url": "git+https://github.com/digiocean/generator-mobile.git"
   },
   "keywords": [
     "digiocean",
     "generator",
-    "generator-h5"
+    "generator-mobile"
   ],
   "author": "h.yingzi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/digiocean/generator-h5/issues"
+    "url": "https://github.com/digiocean/generator-mobile/issues"
   },
-  "homepage": "https://github.com/digiocean/generator-h5#readme"
+  "homepage": "https://github.com/digiocean/generator-mobile#readme"
 }
