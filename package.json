@@ -1,6 +1,6 @@
 {
   "name": "generator-mobile",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "description": "digiocean generator",
   "main": "index.js",
   "scripts": {
